@@ -21,9 +21,9 @@
   "author": "jfx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itsjfx/node-steamid-parser/issues"
+    "url": "https://github.com/itsjfx/node-temporary-queue-manager/issues"
   },
-  "homepage": "https://github.com/itsjfx/node-steamid-parser#readme",
+  "homepage": "https://github.com/itsjfx/node-temporary-queue-manager#readme",
   "dependencies": {
     "p-queue": "^6.6.1"
   },

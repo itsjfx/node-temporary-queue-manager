@@ -1,0 +1,17 @@
+{
+  "name": "node-temporary-queue-manager",
+  "version": "1.0.0",
+  "description": "Manages named temporary queues utilising p-queue under the hood",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jfx",
+  "license": "MIT",
+  "dependencies": {
+    "p-queue": "^6.6.1"
+  },
+  "devDependencies": {
+    "delay": "^4.4.0"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "node-temporary-queue-manager",
+  "name": "temporary-queue-manager",
   "version": "1.0.0",
   "description": "Manages named temporary queues utilising p-queue under the hood",
   "main": "./lib/index.js",

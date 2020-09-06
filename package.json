@@ -1,13 +1,29 @@
 {
   "name": "temporary-queue-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manages named temporary queues utilising p-queue under the hood",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjfx/node-temporary-queue-manager.git"
+  },
+  "keywords": [
+    "temporary",
+    "queue",
+    "queue-manager",
+    "temporary-queue-manager",
+    "node-temporary-queue-manager",
+    "jfx"
+  ],
   "author": "jfx",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjfx/node-steamid-parser/issues"
+  },
+  "homepage": "https://github.com/itsjfx/node-steamid-parser#readme",
   "dependencies": {
     "p-queue": "^6.6.1"
   },
